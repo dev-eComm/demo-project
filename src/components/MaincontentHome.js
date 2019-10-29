@@ -5,7 +5,7 @@ import './MaincontentHome.css';
 class MaincontentHome extends Component {
 	render() {
 		return (
-            <Container>
+            <Container className="conteinterHeight">
             <Row className="justify-content-md-center">
                <Col md="auto" className="mainbox" >BizX demo project</Col>
             </Row>

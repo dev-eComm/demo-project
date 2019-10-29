@@ -1,0 +1,21 @@
+.App { 
+    max-height: 100%;
+     }
+
+
+.footer {
+    display: block;
+    overflow: hidden;
+    background-color: #cbcbcb;
+    font-size: 14px;
+    font-weight: 600;
+    width:100%;
+    text-align: center!important;
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+    bottom: 0;
+    clear : both;
+    width: auto;
+    margin: auto;
+    height: 8vh;
+}
